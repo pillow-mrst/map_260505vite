@@ -1,0 +1,39 @@
+.link {
+    text-align: center;
+}
+
+/* 説明・履歴ページ */
+#list {
+    margin: auto;
+    margin-top: 20px;
+    max-width: 370px;
+}
+
+#resume {
+    border: dashed 2px black;
+    max-width: 370px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.update {
+    text-decoration: underline;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+dl{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+dt{
+    float:left;
+}
+dd{
+    padding-left:65px;
+}
